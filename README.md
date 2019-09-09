@@ -1,5 +1,9 @@
 # RecordingScreenOL 在线录制屏幕
 
+## Preview
+
+https://tidusinspira.github.io/RecordingScreenOL/
+
 ## Feature
 
 - 只需打开浏览器，不用下载任何软件
